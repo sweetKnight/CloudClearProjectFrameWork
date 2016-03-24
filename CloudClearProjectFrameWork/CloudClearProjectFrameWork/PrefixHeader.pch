@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  CloudClearProjectFrameWork
+//
+//  Created by 冯剑锋 on 16/3/24.
+//  Copyright © 2016年 冯剑锋. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "SweetConfig.h"
+#import "AppDelegate.h"
+
+
+#endif /* PrefixHeader_pch */
